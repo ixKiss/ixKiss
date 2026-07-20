@@ -19,4 +19,4 @@
 [![Telegram](https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/XHerokoi)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tolsto_o)
 
-[![Stats](https://github-readme-stats vercel.app/api?username=ixKiss&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-statsvercel.app/api?username=ixKiss&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
