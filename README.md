@@ -2,7 +2,7 @@
 
 ### Web QA Engineer with feeling  for improving web application quality.
 
-#### I am learning manual testing, creating test cases, reporting bugs, and gaining hands-on experience with web testing tools. Would like to help companies with their problems cause i can see  weaknesses and strengths of Product that i am suppose to testing 
+#### I learning manual testing, creating test cases, reporting bugs, and gaining hands-on experience with web testing tools. Would like to help companies with their problems cause i can see  weaknesses and strengths of Product that i am suppose to testing 
 
 ### Tools 
 ![Dev-Tools]( https://img.shields.io/badge/-devtools-orange?style=for-the-badge&logo&)
