@@ -1,4 +1,4 @@
-![Header](https://github.com/ixKiss/ixKiss/blob/main/assets/hello-world-seytonic.gif)
+![Header](https://github.com/ixKiss/ixKiss/blob/main/assets/hello-world-seytonic.gif&hello-worl-seytonic.gif=250x250)
 
 ### Web QA Engineer with feeling  for improving web application quality.
 
