@@ -10,7 +10,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-|![Vscode](https://img.shields.io/badge/Vscode-blue?style=for-the-badge)
+![Vscode](https://img.shields.io/badge/Vscode-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge)
 
 ### Follow  me
